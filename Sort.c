@@ -15,9 +15,8 @@
 *     FUNCTIONS
 **********************/
 /** 
-* @brief
-* @param
-* @return
+这里包括简单排序、折半插入排序、冒泡排序
+只能作为一个参考，因为排序的数据类型不同可能产生较大差异
 */
 void Straight_insert_sort(int * array,int length)
 {
